@@ -6,7 +6,7 @@
 <div align="center" >
 <h1>Form Register</h1>
 <table border="2" style="text-align:center;">
-<form action="send.php" method="post">
+<form action="./send.php" method="post">
 <tr><th colspan="3">Details</th></tr>
 <tr><td>First-Name:</td><td><input type="text" placeholder="f name" name="fname"/></td></tr>
 <tr><td>Last-Name:</td><td><input type="text" placeholder="l name" name="lname"/></td></tr>
